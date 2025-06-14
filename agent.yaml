@@ -1,0 +1,4 @@
+agent_id: valuation-agent
+description: Synthetic ADK agent to evaluate company acquisitions and generate valuation reports.
+default_language_code: en
+entry_function: agent.entry_point
