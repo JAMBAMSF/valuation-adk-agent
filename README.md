@@ -49,7 +49,10 @@ curl -X POST http://localhost:8080/agent \
 ---
 
 ## Screenshots
-_(Insert Dialogflow/Terminal screenshots here before submission)_
+
+### Sample Valuation Response
+
+![Valuation Output](screenshots/valuation-response.png)
 
 ---
 
