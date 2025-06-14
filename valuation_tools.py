@@ -11,5 +11,5 @@ def run_valuation(financials):
 
 def check_rai_compliance(financials):
     if financials["pe_ratio"] > 35:
-        return "⚠️ High P/E ratio may indicate RAI risk. Review recommended."
-    return "✅ Compliant with risk standards."
+        return "Attention: High P/E ratio may indicate RAI risk. Review recommended."
+    return "Compliant with risk standards."
